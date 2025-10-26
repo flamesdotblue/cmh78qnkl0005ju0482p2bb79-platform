@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-import Features from './components/Features';
+import Solutions from './components/Solutions';
 import Footer from './components/Footer';
 
 export default function App() {
@@ -10,7 +10,7 @@ export default function App() {
       <Navbar />
       <main>
         <Hero />
-        <Features />
+        <Solutions />
       </main>
       <Footer />
     </div>
